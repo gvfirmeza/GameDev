@@ -34,3 +34,21 @@ Os jogadores podem realizar melhorias e desbloquear novas armas. O modelo de mon
 ## Público Alvo
 
 O jogo é destinado a jogadores que apreciam jogos de ação e sobrevivência, especialmente fãs de roguelites. Ideal para jogadores que gostam de desafios dinâmicos e batalhas intensas. O jogo atrai tanto jogadores casuais em busca de diversão rápida quanto gamers dedicados que desejam dominar as táticas e estratégias de combate e evolução.
+
+
+# Refinamento
+
+## Nome do Jogo:
+Ocean's Wrath
+
+## Estilo e Mecânicas:
+
+**Estilo:** 
+- Pixel Art
+- Top-Down 
+
+**Mecânicas Principais:** 
+- Sistema de Ondas: Ondas de inimigos que irão mudando e dificultando com o passar do tempo.
+- Upgrades: Upgrades de Armas, Defesas e Habilidades por meio das moedas obtidas derrotando inimigos.
+- Estética: Opções de customização do navio, compradass por meio de uma moeda mais rara que pode ser obtida concluindo runs ou por microtransações.
+- Desafios: Desafios simples que caso sejam vencidos dão moedas bonus ao player.
