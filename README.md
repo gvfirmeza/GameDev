@@ -35,11 +35,15 @@ Os jogadores podem realizar melhorias e desbloquear novas armas. O modelo de mon
 
 O jogo é destinado a jogadores que apreciam jogos de ação e sobrevivência, especialmente fãs de roguelites. Ideal para jogadores que gostam de desafios dinâmicos e batalhas intensas. O jogo atrai tanto jogadores casuais em busca de diversão rápida quanto gamers dedicados que desejam dominar as táticas e estratégias de combate e evolução.
 
+***
 
 # Refinamento
 
 ## Nome do Jogo:
 Ocean's Wrath
+
+## Descrição:
+_Ocean's Wrath_ é um roguelite de sobrevivência ambientado em um mundo pós-apocalíptico inundado. Como capitão de um navio personalizável, você enfrentará ondas crescentes de piratas, tubarões e criaturas míticas do oceano. Sua missão é sobreviver o máximo possível, resgatar tesouros escondidos e aprimorar seu navio com recursos coletados de inimigos derrotados.
 
 ## Estilo e Mecânicas:
 
