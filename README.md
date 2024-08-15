@@ -59,3 +59,9 @@ _Ocean's Wrath_ é um roguelite de sobrevivência ambientado em um mundo pós-ap
 - Upgrades: Upgrades de Armas, Defesas e Habilidades por meio das moedas obtidas derrotando inimigos.
 - Estética: Opções de customização do navio, compradass por meio de uma moeda mais rara que pode ser obtida concluindo runs ou por microtransações.
 - Desafios: Desafios simples que caso sejam vencidos dão moedas bonus ao player.
+
+**Sprites Úteis**
+- https://helianthus-games.itch.io/pixel-art-viking-ship-16-directions
+- https://rainamoonart.itch.io/octopus-sprite-idle-animation
+- https://opengameart.org/content/deep-ocean-battlemap
+- https://rishikiram.itch.io/ship-pixel-sprite
