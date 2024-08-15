@@ -67,3 +67,4 @@ _Ocean's Wrath_ é um roguelite de sobrevivência ambientado em um mundo pós-ap
 - https://rainamoonart.itch.io/octopus-sprite-idle-animation
 - https://opengameart.org/content/deep-ocean-battlemap
 - https://rishikiram.itch.io/ship-pixel-sprite
+- https://www.artstation.com/artwork/9NOv0v
