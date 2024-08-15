@@ -1,3 +1,6 @@
+# Repositório Projeto Inicial Godot
+  https://github.com/gvfirmeza/EstudandoGodot
+
 # Desenvolvimento de Jogos
 
 ## 5W2H
