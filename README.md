@@ -1,7 +1,7 @@
 # Links
 
-🔗 https://github.com/gvfirmeza/EstudandoGodot <br/>
-🔗 https://github.com/gvfirmeza/OceansWrath
+🔗 [**Repositório das Aulas**](https://github.com/gvfirmeza/EstudandoGodot) <br/>
+🔗 [**Repositório do Grupo**](https://github.com/gvfirmeza/OceansWrath)
 
 # Desenvolvimento de Jogos
 
